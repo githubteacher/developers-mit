@@ -2,7 +2,7 @@
 
 **Name:** Marc Sacks
 
-**Where you are from:** Belmont, 
+**Where you are from:** Belmont, MA
 
 *A favorite food:* Pizza
 
