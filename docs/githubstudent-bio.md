@@ -2,6 +2,6 @@
 
 **Hometown:** San Francisco, CA
 
-**Hobbies:** Learning about Git and GitHub
+**Hobbies:** :ship:ing great software (also boating)
 
 **Favorite Food:** Delicioius sandwiches
