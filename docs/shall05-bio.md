@@ -1,7 +1,7 @@
 ## @shall05mit
 
-*Hometown:* Sarasota, FL
+**Hometown:** Sarasota, FL
 
-*Favorite Food:* Pistachio nuts
+**Favorite Food:**  Cap'n Crunch (but only on rare occasions)
 
-*Hobbies:* vintage Electronics
+**Hobbies:** Electronics also Guitar 
