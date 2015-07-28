@@ -4,6 +4,6 @@
 
 **Where** Mass
 
-**Favorite Food** Pickles
+**Favorite Food** Pickles and Bagels
 
-**Hobby** Bad piano playing
+**Hobby** Bad piano playing Bad Gardening
