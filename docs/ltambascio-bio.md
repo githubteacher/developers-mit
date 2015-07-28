@@ -2,6 +2,6 @@
 
 **Hometown:** Northborough, MA
 
-**Hobbies:** Sailing, Robotics
+**Hobbies:** Sailing, Robotics, Robbing banks
 
 **Favorite Food:** Lobster
