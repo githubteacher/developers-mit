@@ -2,6 +2,6 @@
 
 **Hometown:** Boston, MA
 
-**Hobbies:** Learning about Git and GitHub
+**Hobbies:** shipping great software (also boating)
 
 **Favorite Food:** Sushi
