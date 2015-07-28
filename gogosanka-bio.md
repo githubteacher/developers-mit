@@ -1,6 +1,6 @@
 ```python
 def bio(name,address,food,hobby):
-    print (name)
+    print 'My name is %s.' % (name)
     print (address)
     print (food)
     print (hobby)
