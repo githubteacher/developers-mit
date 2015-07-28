@@ -5,4 +5,4 @@
 
 **A Favorite food:** Mac & Cheese 
 
-**A Hobby:** Weightlifting & Fitness
+**Hobbies:** Weightlifting & Fitness
