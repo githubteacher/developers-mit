@@ -1,7 +1,7 @@
-<big>@amberb617</big>
+# @amberb617
 
-<bold>Hometown:</bold> Boston, MA
+**Hometown:** Boston, MA
 
-<bold>Hobbies:</bold> Learning Git and Github for the next two days!
+**Hobbies:** Learning Git and Github for the next two days!
 
-<bold>Favorite Food:</bold> Avocados!
+**Favorite Food:** Avocados!
