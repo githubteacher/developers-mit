@@ -2,7 +2,7 @@
 
 **Name:** Johnny Appleseed
 
-**Hometown:** Anytown, USA
+**Hometown:** Leominster, MA
 
 **Favorite food:** apple pie
 
