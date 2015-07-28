@@ -2,5 +2,5 @@
 
 - **Name** Dave B
 - **From** Boston
-- **Food** Pizza!!
-- **Hobby** Astronomy
+- **Food** Pizza, Sushi
+- **Hobby** Astronomy, Gaming
