@@ -1,6 +1,6 @@
 ## @Githubstudent
 
-**Hometown:** somerville, MA
+**Hometown:** Somerville, MA
 
 **Hobbies:** :ship:ing great code.  Also boating.
 
