@@ -7,6 +7,6 @@
 **Favorite Food:** Italian and Thai
 
 **Sports**
-[ ] Cricket
+[ ] Cricket and Golf
 [ ] Chess
 [ ] Baseball
