@@ -3,4 +3,4 @@
 **Location:** Boston, MA
 **Hobbies:** Music, reading
 
-**Vacation:** Germany next week
+**Favorite Vacations:** Italy, South Africa
