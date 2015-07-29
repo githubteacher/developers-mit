@@ -5,4 +5,4 @@
 
 **Favorite Food:** Pancakes
 
-**Favorite Vacation Spot:** Portland, Maine
+**Favorite Vacation Spot:** Portland, Maine (but only in May)
