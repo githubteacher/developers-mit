@@ -6,5 +6,5 @@
 
 **Hobby:** Astronomy and Quilting
 
-**Vacation:** Blah
+**Vacation:** North Conway
 
