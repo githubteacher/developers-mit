@@ -2,7 +2,7 @@
 
 **Hometown:** Somerville, MA
 
-**Hobbies:** :ship:ing great code.  Also boating.
+**Hobbies:** :ship:ing great code.  Also boating. Also drowning.
 
 **Favorite Food:** Delcious bowls of cereal.
 
