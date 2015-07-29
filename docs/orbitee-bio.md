@@ -1,4 +1,8 @@
 ## @orbitee
+
 **From:** Southern California
+
 **Food:** Tacos
-**Hobby:** Astronomy
+
+**Hobby:** Astronomy and Quilting
+
