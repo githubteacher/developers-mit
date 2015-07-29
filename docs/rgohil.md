@@ -8,4 +8,4 @@
 
 **Hobbies:** baseball
 
-**Favorite vacation spot:** Crabapple Cove, Maine
+**Favorite vacation spot:** Crabapple Cove, ME
