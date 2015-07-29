@@ -2,6 +2,11 @@
 
 **Hometown**:Lexington, MA
 
-**Hobbies**: :bike: :musical_notes:
+**Hobbies**: :bike: Learning new stuff
 
+**Favorite Food:** Italian and Thai
 
+**Sports**
+[ ] Cricket and Golf
+[ ] Chess
+[ ] Baseball
